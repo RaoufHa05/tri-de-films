@@ -13,10 +13,17 @@ Ce projet a été réalisé dans le cadre d’un cours universitaire en algorith
 - IDE : Eclipse / IntelliJ / VS Code
 
 ## 📂 Structure du projet
-- 'ProjetL2_AlloCine/src/main/resources/scrapped0.txt' : texte HTML du site allociné
-- 'ProjetL2_AlloCine/src/main/java/fr/pantheonsorbonne/ufr27/miashs/poo/Item.java': initialisation des résultats attendus
-- 'ProjetL2_AlloCine/src/main/java/fr/pantheonsorbonne/ufr27/miashs/poo/ItemAnalyzer.java' : algortihme nécessaire pour sortir tous les résultats
-   'ProjetL2_AlloCine/src/main/java/fr/pantheonsorbonne/ufr27/miashs/poo/ItemAnalyzer.java' : algorithme permettant de faire d'autres statistiques
+- `src/main/resources/scrapped0.txt`  
+  → Fichier contenant le HTML scrappé depuis AlloCiné.
+
+- `src/main/java/fr/pantheonsorbonne/ufr27/miashs/poo/Item.java`  
+  → Classe représentant un film (titre, note, etc.) et initialisant les objets résultats.
+
+- `src/main/java/fr/pantheonsorbonne/ufr27/miashs/poo/ItemAnalyzer.java`  
+  → Classe principale d’analyse :
+  - extraction des films depuis le HTML,
+  - traitements statistiques supplémentaires (ex : tri, moyenne, top N, etc.).
+
 ## 🔄 Fonctionnalités
 
 - Tri des films par :

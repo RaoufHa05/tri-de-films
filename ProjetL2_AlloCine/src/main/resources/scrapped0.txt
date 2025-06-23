@@ -1,0 +1,2256 @@
+<!doctype html>
+<html lang="fr">
+ <head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+  <meta name="robots" content="index,follow,max-snippet:-1">
+  <title>Meilleurs films à l'affiche - AlloCiné</title>
+  <meta name="keywords" content="">
+  <meta name="Googlebot" content="noarchive">
+  <meta name="distribution" content="global">
+  <meta name="author" content="AlloCine">
+  <meta name="country" content="France">
+  <meta name="geo.position" content="48.87078;2.30447">
+  <meta name="geo.country" content="FR">
+  <meta name="ICBM" content="48.87078;2.30447">
+  <meta name="theme-color" content="#FECC00">
+  <meta name="description" content="Quels sont les films à voir au cinéma? Découvrez les meilleurs films actuellement au cinéma.">
+  <meta property="og:site_name" content="AlloCiné">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="Meilleurs films au cinéma">
+  <meta property="og:description" content="Découvrez les 58 meilleurs films actuellement au cinéma.">
+  <meta property="fb:app_id" content="99197768694">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@allocine">
+  <meta name="twitter:title" content="Meilleurs films au cinéma">
+  <meta name="twitter:description" content="Découvrez les 58 meilleurs films actuellement au cinéma.">
+  <meta name="twitter:image" content="">
+  <meta name="twitter:app:name:iphone" content="allocine">
+  <meta name="twitter:app:name:ipad" content="allocine">
+  <meta name="twitter:app:name:googleplay" content="allocine">
+  <meta name="twitter:app:url:iphone" content="allocine://open/">
+  <meta name="twitter:app:url:ipad" content="allocine://open/">
+  <meta name="twitter:app:url:googleplay" content="allocine://open/">
+  <meta name="twitter:app:id:iphone" content="351184863">
+  <meta name="twitter:app:id:ipad" content="351184863">
+  <meta name="twitter:app:id:googleplay" content="com.allocine.androidapp">
+  <meta name="apple-itunes-app" content="app-id=351184863, app-argument=allocine://open/">
+  <meta property="fb:pages" content="107276450147">
+ </head>
+ <body id="allocine__movies_showing_top_by_user" class=" allocine allocine__movies_showing_top_by_user logged-out" data-migration="graph">
+  <div class="sub-body">
+   <div id="dfp-interstitial" class="js-interstitial ad-interstitial ad-item"></div>
+   <header class="header-main" id="header-main">
+    <div class="header-main-center">
+     <div class="header-main-top">
+      <div id="header-main-mobile-btn-menu" class="header-main-btn-mobile icon icon-hamburger" aria-label="Bouton Menu mobile"></div>
+      <div class="header-main-logo-holder">
+       <span class="ACrLw=ACr= header-main-logo"> <img class="header-main-logo-img" src="https://assets.allocine.fr/skin/img/allocine/logo-main.ab1b33da.svg" width="162" height="37" alt="allocine"> <span class="header-main-logo-name">AlloCiné</span> </span>
+      </div>
+      <form method="get" action="/rechercher/" class="header-main-search" id="search-header">
+       <fieldset id="search-engine" class="header-main-search-fieldset">
+        <div class="header-search-form-container">
+         <input type="text" id="header-search-input" name="site_search[q]" class="header-search-input" placeholder="Rechercher un film, une série, une star..."><button class="header-search-submit icon icon-search" type="submit" title="Rechercher" aria-label="Envoyer"></button>
+        </div>
+       </fieldset>
+       <p class="header-search-extralinks">Ex. : <span class="ACrL3RACrhZy00ODU3L2ZpbG1zLw==">Western spaghetti</span>, <span class="ACrL3RACrhZy02NzgvZmlsbXMv">Films de zombies</span>, <span class="ACrL3RACrhZy0xMDI2L2ZpbG1zLw==">Teen movies</span>, <span class="ACrL3RACrhZy05MjAvZmlsbXMv">Films cultes</span></p>
+       <div id="header-main-search-mobile-layer" class="header-main-search-mobile-layer"></div>
+      </form>
+      <div class="header-ads-zone">
+       <div id="dfp-headerlink" class="js-headerlink ad-headerlink ad-item"></div>
+      </div>
+      <div id="header-main-mobile-btn-search" class="header-main-btn-mobile icon icon-search" aria-label="Bouton Rechercher"></div>
+      <div id="header-main-mobile-btn-userspace" class="header-main-btn-mobile header-main-mobile-btn-userspace" data-ga-trigger="clic" data-ga="{&quot;eventCategory&quot;:&quot;my_brand&quot;,&quot;eventAction&quot;:&quot;header_button&quot;,&quot;eventLabel&quot;:&quot;test_cta_mac&quot;,&quot;dimension10&quot;:&quot;movies_showing_top_by_user&quot;}">
+       <span class="icon icon-profil" aria-label="Bouton Mon compte"></span> <img class="avatar js-myaccount-avatar" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+      </div>
+     </div>
+     <div class="header-main-bottom">
+      <nav class="header-main-nav" id="header-main-nav">
+       <ul class="header-nav-holder">
+        <li class="header-nav-item "><span class="ACrL25ACrld3Mv header-nav-link" title="News"> News </span></li>
+        <li class="header-nav-item is-active"><span class="ACrL2ZACrpbG0v header-nav-link current ancestor" title="Cinéma"> Cinéma </span>
+         <div class="header-main-subnav-holder">
+          <ul class="header-main-subnav">
+           <li class="header-subnav-item "><span class="ACrL2ZACrpbG0vbWVpbGxldXJzLw== header-nav-link" title="Meilleurs films"> Meilleurs films </span></li>
+           <li class="header-subnav-item is-active"><span class="ACrL2ZACrpbG0vYXVjaW5lbWEv header-nav-link current" title="Films à l'affiche"> Films à l'affiche </span></li>
+           <li class="header-subnav-item "><span class="ACrL2ZACrpbG0vYXR0ZW5kdXMv header-nav-link" title="Prochainement"> Prochainement </span></li>
+           <li class="header-subnav-item "><span class="ACrL3NACrhbGxlLw== header-nav-link" title="Séances"> Séances </span></li>
+           <li class="header-subnav-item "><span class="ACrL2tACrpZHMv header-nav-link" data-jan="{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;internal&quot;,&quot;position_name&quot;:&quot;kids_menu&quot;,&quot;filters_value&quot;:&quot;https:\/\/www.allocine.fr\/film\/aucinema\/top\/&quot;}" data-ga-trigger="clic" data-ga="{&quot;hitType&quot;:&quot;event&quot;,&quot;eventCategory&quot;:&quot;op-kids&quot;,&quot;eventLabel&quot;:&quot;https:\/\/www.allocine.fr\/film\/aucinema\/top\/&quot;,&quot;eventAction&quot;:&quot;navigation_menu_click&quot;}" title="Kids"> Kids </span></li>
+           <li class="header-subnav-item "><span class="ACrL2JACrveG9mZmljZS9mcmFuY2Uv header-nav-link" title="Box Office"> Box Office </span></li>
+           <li class="header-subnav-item "><span class="ACrL2ZACrpbG0vY291cnQtbWV0cmFnZS8= header-nav-link" title="Courts-métrages"> Courts-métrages </span></li>
+           <li class="header-subnav-item "><span class="ACrL2RACr2ZC8= header-nav-link" title="DVD"> DVD </span></li>
+           <li class="header-subnav-item "><span class="ACrL2ZACrpbG1zLw== header-nav-link" title="Tous les films"> Tous les films </span></li>
+          </ul>
+         </div></li>
+        <li class="header-nav-item "><span class="ACrL3NACrlcmllcy8= header-nav-link" title="Séries"> Séries </span></li>
+        <li class="header-nav-item "><span class="ACrL3NACr0cmVhbWluZy8= header-nav-link" data-jan="{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;internal&quot;,&quot;position_name&quot;:&quot;navigation_menu_click&quot;,&quot;filters_value&quot;:&quot;https:\/\/www.allocine.fr\/film\/aucinema\/top\/&quot;}" data-ga-trigger="clic" data-ga="{&quot;hitType&quot;:&quot;event&quot;,&quot;eventCategory&quot;:&quot;op-svod&quot;,&quot;eventLabel&quot;:&quot;https:\/\/www.allocine.fr\/film\/aucinema\/top\/&quot;,&quot;eventAction&quot;:&quot;navigation_menu_click&quot;}" title="Streaming"> Streaming </span></li>
+        <li class="header-nav-item "><span class="ACrL3RACr2YWN0dS8= header-nav-link" title="TVActu"> TVActu </span></li>
+        <li class="header-nav-item "><span class="ACrL3RACryYWlsZXIv header-nav-link" title="Trailers"> Trailers </span></li>
+        <li class="header-nav-item "><span class="ACrL3ZACrvZC8= header-nav-link" title="VOD"> VOD </span></li>
+        <li class="header-nav-item "><span class="ACrL2ZACrpbG0vbGVzaW5kZXMv header-nav-link" title="Les indés"> Les indés </span></li>
+        <li class="header-nav-item "><span class="ACrL21ACr5Y2FuYWwv header-nav-link" title="Canal+"> Canal+ </span></li>
+       </ul>
+      </nav>
+      <div id="header-userspace-nav" class="header-userspace-nav">
+       <span class="ACrLy9ACrtb24uYWxsb2NpbmUuZnIv header-nav-userspace-upper-link" data-ga-trigger="clic" data-ga="{&quot;eventCategory&quot;:&quot;my_brand&quot;,&quot;eventAction&quot;:&quot;header_button&quot;,&quot;eventLabel&quot;:&quot;test_cta_mac&quot;,&quot;dimension10&quot;:&quot;movies_showing_top_by_user&quot;}" aria-label="Bouton Mon compte"><img class="avatar js-myaccount-avatar" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="> Mon compte </span>
+       <div class="header-nav-userspace-holder">
+        <div class="header-nav-userspace-sso">
+         <span class="ACrLy9ACrtb24uYWxsb2NpbmUuZnIvY29ubmV4aW9uLz9yZXR1cm5Vcmw9aHR0cHMlM0ElMkYlMkZ3d3cuYWxsb2NpbmUuZnIlMkZmaWxtJTJGYXVjaW5lbWElMkZ0b3AlMkY= button button-social-ac-ghost button-sm sign-in"><span class="txt">Identifiez-vous</span></span><span class="ACrLy9ACrtb24uYWxsb2NpbmUuZnIvaW5zY3JpcHRpb24vP3JldHVyblVybD0lMkYlMkZtb24uYWxsb2NpbmUuZnIlMkY= button button-social-ac-full button-sm sign-up"><span class="txt">Créez votre compte</span></span>
+        </div>
+        <ul class="header-nav-userspace-subcontent"></ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div class="main-banner">
+    <div id="dfp-masthead" class="js-masthead ad-masthead ad-item"></div>
+   </div>
+   <main id="content-layout" class="content-layout cf">
+    <div class="section-wrap breadcrumb ">
+     <a class="item" href="/">Accueil</a><a class="item" href="/film/">Cinéma</a><a class="item" href="/film/aucinema/">Films au cinéma</a>
+     <h1 class="item">Meilleurs films au cinéma</h1>
+    </div>
+    <section class="section-wrap">
+     <div class="titlebar titlebar-page">
+      <div class="titlebar-title titlebar-title-xl">
+       Meilleurs films à l'affiche selon les spectateurs
+      </div>
+      <div class="light titlebar-subtile">
+       <span class="titlebar-subtile-txt">Les films actuellement en salle les mieux notés par les membres AlloCiné</span>
+      </div>
+     </div>
+    </section>
+    <section class="section-wrap">
+     <nav class="third-nav third-nav-hash js-third-nav ">
+      <a class="item" href="/film/aucinema/top/presse/">Meilleurs films à l'affiche selon la presse</a> <span class="ACrL2ZACrpbG0vc29ydGllcy1zZW1haW5lLw== item js-item-mq-medium">Sorties de la semaine</span> <span class="ACrL2ZACrpbG0vYXZhbnRwcmVtaWVyZXMv item js-item-mq-medium">Avant-premières</span> <span class="ACrL2ZACrpbG0vZW5mYW50cy9hdWNpbmVtYS8= item js-item-mq-medium">Films pour enfants à l'affiche</span>
+      <div class="item-more js-third-sub-nav-holder">
+       <span class="item-more-picto icon icon-plus-mini plus-mini-rounded js-trigger-third-nav-sub" aria-label="Afficher plus d'éléments" role="button"></span>
+       <div class="third-nav-sub js-third-nav-sub">
+        <span class="ACrL2ZACrpbG0vYXVjaW5lbWEv item">Tous les films à l'affiche</span>
+       </div>
+      </div>
+     </nav>
+    </section>
+    <section class="section section-wrap gd-2-cols gd-gap-30">
+     <div class="gd-col-left">
+      <ol>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjAyNDEyJmNmaWxtPTI4ODQwNC5odG1s thumbnail-container thumbnail-link" title="Bande-annonce Le Comte de Monte-Cristo"> <img class="thumbnail-img" src="https://fr.web.img6.acsta.net/c_310_420/o_club-allocine-2024-310x420.png_0_se/img/29/eb/29eb8341475fdb0b19b1d7b995b70e17.jpg" alt="Bande-annonce Le Comte de Monte-Cristo" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            1
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=288404.html">Le Comte de Monte-Cristo</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">28 juin 2024</span> <span class="spacer">|</span> 2h 58min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDAxLw== dark-grey-link">Aventure</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDE1Lw== dark-grey-link">Historique</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT05MzkzMS5odG1s dark-grey-link">Matthieu Delaporte</span>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT05OTc5Ny5odG1s dark-grey-link">Alexandre De La Patellière</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=228780.html">Pierre Niney</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=252531.html">Bastien Bouillon</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT05MTQzNC5odG1s dark-grey-link">Anaïs Demoustier</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTI4ODQwNC9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n35 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">3,6</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-288404/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,5</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6Mjg4NDA0" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Victime d’un complot, le jeune Edmond Dantès est arrêté le jour de son mariage pour un crime qu’il n’a pas commis. Après quatorze ans de détention au château d’If, il parvient à s’évader. Devenu immensément riche, il revient sous l’identité du comte de Monte-Cristo pour se venger des trois hommes qui l’ont trahi.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTI4ODQwNC8= button button-sm button-inverse-full"> <span class="txt">Séances (112)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6Mjg4NDA0" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6Mjg4NDA0" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li>
+        <div id="mobile-referrer-atf"></div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTE5NjA1NDMwJmNmaWxtPTI2ODM4NC5odG1s thumbnail-container thumbnail-link" title="Bande-annonce Le Robot Sauvage"> <img class="thumbnail-img" src="https://fr.web.img3.acsta.net/c_310_420/img/7a/10/7a1098f21c765b7d4935240e1af094ed.jpg" alt="Bande-annonce Le Robot Sauvage" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            2
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=268384.html">Le Robot Sauvage</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">9 octobre 2024</span> <span class="spacer">|</span> 1h 42min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDAxLw== dark-grey-link">Aventure</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDI2Lw== dark-grey-link">Animation</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDA1Lw== dark-grey-link">Comédie</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT02ODA5MC5odG1s dark-grey-link">Chris Sanders</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=582633.html">Lupita Nyong'o</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=213564.html">Pedro Pascal</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT03MDY5MzkuaHRtbA== dark-grey-link">Kit Connor</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Titre original </span> <span class="dark-grey">The Wild Robot</span>
+           </div>
+          </div>
+         </div>
+         <div class="label-holder">
+          <div class="label kids-label aged-default">
+           à partir de 6 ans
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTI2ODM4NC9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">3,8</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-268384/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,4</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MjY4Mzg0" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Après avoir fait naufrage sur une île déserte, un robot doit apprendre à s'adapter à un environnement hostile en nouant petit à petit des relations avec les animaux de l'île.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTI2ODM4NC8= button button-sm button-inverse-full"> <span class="txt">Séances (381)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MjY4Mzg0" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MjY4Mzg0" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA3MzE3JmNmaWxtPTEwMDAwMDE3MDIuaHRtbA== thumbnail-container thumbnail-link" title="Bande-annonce Les Graines du figuier sauvage"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img2.acsta.net/c_310_420/img/38/1e/381e47f91ac66b215d8140e10f0eac44.jpg" alt="Bande-annonce Les Graines du figuier sauvage" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            3
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=1000001702.html">Les Graines du figuier sauvage</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">18 septembre 2024</span> <span class="spacer">|</span> 2h 47min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDA4Lw== dark-grey-link">Drame</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xMjY5MjAuaHRtbA== dark-grey-link">Mohammad Rasoulof</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=424712.html">Misagh Zare</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=702727.html">Soheila Golestani</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xMDAwMDAyMDA5Lmh0bWw= dark-grey-link">Mahsa Rostami</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Titre original </span> <span class="dark-grey">The Seed of the Sacred Fig</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTEwMDAwMDE3MDIvY3JpdGlxdWVzL3ByZXNzZS8= rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,4</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-1000001702/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,3</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MTAwMDAwMTcwMg==" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Iman vient d’être promu juge d’instruction au tribunal révolutionnaire de Téhéran quand un immense mouvement de protestations populaires commence à secouer le pays. Dépassé par l’ampleur des évènements, il se confronte à l’absurdité d’un système et à ses injustices mais décide de s’y conformer. A la maison, ses deux filles, Rezvan et Sana, étudiantes, soutiennent le mouvement avec virulence, tandis que sa femme, Najmeh, tente de ménager les deux camps. La paranoïa envahit Iman lorsque son arme de service disparait mystérieusement...
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTEwMDAwMDE3MDIv button button-sm button-inverse-full"> <span class="txt">Séances (82)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MTAwMDAwMTcwMg==" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MTAwMDAwMTcwMg==" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTE5NDQ2MTA1JmNmaWxtPTI3NzAuaHRtbA== thumbnail-container thumbnail-link" title="Bande-annonce Les Incorruptibles"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img5.acsta.net/c_310_420/pictures/210/016/21001616_20130425155620673.jpg" alt="Bande-annonce Les Incorruptibles" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            4
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=2770.html">Les Incorruptibles</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">21 octobre 1987</span> <span class="spacer">|</span> 1h 59min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDE4Lw== dark-grey-link">Policier</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Date de reprise</span> <span class="date">29 mai 2013</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT05NTQuaHRtbA== dark-grey-link">Brian De Palma</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=3226.html">Kevin Costner</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=1541.html">Sean Connery</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xMDUzLmh0bWw= dark-grey-link">Charles Martin Smith</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Titre original </span> <span class="dark-grey">The Untouchables</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTI3NzAvY3JpdGlxdWVzL3ByZXNzZS8= rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n35 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">3,3</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-2770/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,3</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6Mjc3MA==" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           A Chicago durant les années trente, lors de la prohibition, Al Capone règne en maître absolu sur le trafic d'alcool. L'agent Eliot Ness et ses hommes partent en guerre contre son gang...
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTI3NzAv button button-sm button-inverse-full"> <span class="txt">Séances (24)</span> </span> <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTI3NzAvc3RyZWFtaW5nLw== button button-sm button-default-full" data-jan="{&quot;eventAction&quot;:&quot;both&quot;,&quot;eventName&quot;:&quot;svod_generic_button&quot;,&quot;movie_entity&quot;:&quot;2770|les_incorruptibles&quot;,&quot;series_entity&quot;:&quot;undefined&quot;,&quot;site_route&quot;:&quot;movies_showing_top_by_user&quot;}" data-ga-trigger="clic" data-ga="{&quot;hitType&quot;:&quot;event&quot;,&quot;eventCategory&quot;:&quot;op-svod&quot;,&quot;eventLabel&quot;:&quot;streaming_button&quot;,&quot;dimension82&quot;:&quot;2770-les_incorruptibles&quot;,&quot;dimension10&quot;:&quot;movies_showing_top_by_user&quot;}"> <span class="txt">Streaming</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6Mjc3MA==" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6Mjc3MA==" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTE5NDA5NTI4JmNmaWxtPTIwMjkyNC5odG1s thumbnail-container thumbnail-link" title="Bande-annonce Ernest et Célestine"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img2.acsta.net/c_310_420/medias/nmedia/18/90/28/33/20118226.jpg" alt="Bande-annonce Ernest et Célestine" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            5
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=202924.html">Ernest et Célestine</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">12 décembre 2012</span> <span class="spacer">|</span> 1h 16min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDI2Lw== dark-grey-link">Animation</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT01NTMzMjEuaHRtbA== dark-grey-link">Benjamin Renner</span>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xODA5Ny5odG1s dark-grey-link">Vincent Patar</span>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xODA5Ni5odG1s dark-grey-link">Stéphane Aubier</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=1004.html">Lambert Wilson</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=407727.html">Pauline Brunner</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT02MTM5NjguaHRtbA== dark-grey-link">Anne-Marie Loop</span>
+           </div>
+          </div>
+         </div>
+         <div class="label-holder">
+          <div class="label kids-label aged-default">
+           à partir de 3 ans
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTIwMjkyNC9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,3</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-202924/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,3</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MjAyOTI0" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Dans le monde conventionnel des ours, il est mal vu de se lier d’amitié avec une souris. Et pourtant, Ernest, gros ours marginal, clown et musicien, va accueillir chez lui la petite Célestine, une orpheline qui a fui le monde souterrain des rongeurs.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTIwMjkyNC8= button button-sm button-inverse-full"> <span class="txt">Séances (22)</span> </span> <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTIwMjkyNC9zdHJlYW1pbmcv button button-sm button-default-full" data-jan="{&quot;eventAction&quot;:&quot;both&quot;,&quot;eventName&quot;:&quot;svod_generic_button&quot;,&quot;movie_entity&quot;:&quot;202924|ernest_et_celestine&quot;,&quot;series_entity&quot;:&quot;undefined&quot;,&quot;site_route&quot;:&quot;movies_showing_top_by_user&quot;}" data-ga-trigger="clic" data-ga="{&quot;hitType&quot;:&quot;event&quot;,&quot;eventCategory&quot;:&quot;op-svod&quot;,&quot;eventLabel&quot;:&quot;streaming_button&quot;,&quot;dimension82&quot;:&quot;202924-ernest_et_celestine&quot;,&quot;dimension10&quot;:&quot;movies_showing_top_by_user&quot;}"> <span class="txt">Streaming</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MjAyOTI0" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MjAyOTI0" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li>
+        <div id="mobile-referrer-mtf"></div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA4MzAxJmNmaWxtPTMxMzQ4Ni5odG1s thumbnail-container thumbnail-link" title="Bande-annonce Monsieur Aznavour"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img6.acsta.net/c_310_420/img/60/13/6013baf72e4a2adc636344c7a3dda3b8.jpg" alt="Bande-annonce Monsieur Aznavour" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            6
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=313486.html">Monsieur Aznavour</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">23 octobre 2024</span> <span class="spacer">|</span> 2h 13min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDI3Lw== dark-grey-link">Biopic</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDA4Lw== dark-grey-link">Drame</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT03NTEzOTcuaHRtbA== dark-grey-link">Mehdi Idir</span>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0yNTkxMDAuaHRtbA== dark-grey-link"> Grand Corps Malade</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=171899.html">Tahar Rahim</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0yNTI1MzEuaHRtbA== dark-grey-link">Bastien Bouillon</span>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0yMjc3NjYuaHRtbA== dark-grey-link">Marie-Julie Baup</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTMxMzQ4Ni9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n30 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">3,2</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-313486/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,3</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MzEzNDg2" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Fils de réfugiés, petit, pauvre, à la voix voilée, on disait de lui qu’il n’avait rien pour réussir. À force de travail, de persévérance et d’une volonté hors norme, Charles Aznavour est devenu un monument de la chanson, et un symbole de la culture française.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTMxMzQ4Ni8= button button-sm button-inverse-full"> <span class="txt">Séances (906)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MzEzNDg2" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MzEzNDg2" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA3NDU2JmNmaWxtPTMwMjQ3NC5odG1s thumbnail-container thumbnail-link" title="Bande-annonce Flow, le chat qui n’avait plus peur de l’eau"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img3.acsta.net/c_310_420/img/07/21/072124435e88c6c5b2a183198e0137fb.jpeg" alt="Bande-annonce Flow, le chat qui n’avait plus peur de l’eau" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            7
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=302474.html">Flow, le chat qui n’avait plus peur de l’eau</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">30 octobre 2024</span> <span class="spacer">|</span> 1h 25min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDI2Lw== dark-grey-link">Animation</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT04NzEzODguaHRtbA== dark-grey-link">Gints Zilbalodis</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Titre original </span> <span class="dark-grey">Flow</span>
+           </div>
+          </div>
+         </div>
+         <div class="label-holder">
+          <div class="label kids-label aged-default">
+           à partir de 8 ans
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTMwMjQ3NC9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,3</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-302474/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n45 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,3</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MzAyNDc0" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Un chat se réveille dans un univers envahi par l’eau où toute vie humaine semble avoir disparu. Il trouve refuge sur un bateau avec un groupe d’autres animaux. Mais s’entendre avec eux s’avère un défi encore plus grand que de surmonter sa peur de l'eau ! Tous devront désormais apprendre à surmonter leurs différences et à s’adapter au nouveau monde qui s’impose à eux.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTMwMjQ3NC8= button button-sm button-inverse-full"> <span class="txt">Séances (590)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MzAyNDc0" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MzAyNDc0" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA0NTk1JmNmaWxtPTMwNDUwOC5odG1s thumbnail-container thumbnail-link" title="Bande-annonce Emilia Perez"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img6.acsta.net/c_310_420/img/bf/98/bf982c02ee39e172a259a3face755554.jpg" alt="Bande-annonce Emilia Perez" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            8
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=304508.html">Emilia Perez</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">21 août 2024</span> <span class="spacer">|</span> 2h 10min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDA4Lw== dark-grey-link">Drame</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDEzLw== dark-grey-link">Comédie musicale</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDIzLw== dark-grey-link">Thriller</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xODUyMS5odG1s dark-grey-link">Jacques Audiard</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=34515.html">Zoe Saldana</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=964770.html">Karla Sofía Gascón</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xNjgzOTEuaHRtbA== dark-grey-link">Selena Gomez</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTMwNDUwOC9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,1</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-304508/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,2</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MzA0NTA4" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Surqualifiée et surexploitée, Rita use de ses talents d’avocate au service d’un gros cabinet plus enclin à blanchir des criminels qu’à servir la justice. Mais une porte de sortie inespérée s’ouvre à elle, aider le chef de cartel Manitas à se retirer des affaires et réaliser le plan qu’il peaufine en secret depuis des années : devenir enfin la femme qu’il a toujours rêvé d’être.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTMwNDUwOC8= button button-sm button-inverse-full"> <span class="txt">Séances (49)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MzA0NTA4" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MzA0NTA4" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTE5Mzc3ODQ2JmNmaWxtPTQwMTkuaHRtbA== thumbnail-container thumbnail-link" title="Bande-annonce Piège de cristal"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img6.acsta.net/c_310_420/pictures/14/08/14/12/00/419467.jpg" alt="Bande-annonce Piège de cristal" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            9
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=4019.html">Piège de cristal</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">21 septembre 1988</span> <span class="spacer">|</span> 2h 12min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDI1Lw== dark-grey-link">Action</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Date de reprise</span> <span class="date">3 septembre 2014</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT05ODA0Lmh0bWw= dark-grey-link">John McTiernan</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=6693.html">Bruce Willis</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=9805.html">Alan Rickman</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xMTMxLmh0bWw= dark-grey-link">Alexander Godunov</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Titre original </span> <span class="dark-grey">Die Hard</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTQwMTkvY3JpdGlxdWVzL3ByZXNzZS8= rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n35 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">3,6</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-4019/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,2</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6NDAxOQ==" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Des terroristes investissent le siège social d'une multinationale à Los Angeles. Holly, l'ex-femme de John McClane, policier new-yorkais venu sur la côte Ouest pour Noël, est prise en otage. McLane, enfermé dans le bâtiment, passe à l'action...
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTQwMTkv button button-sm button-inverse-full"> <span class="txt">Séances (19)</span> </span> <span class="ACrL2pACr1bXAv#data-affiliation-type=svod&amp;data-provider=disney&amp;data-entity-type=Movie&amp;data-entity-id=4019 button button-provider-premium button-disney-full button-sm" data-jan="{&quot;eventAction&quot;:&quot;both&quot;,&quot;eventName&quot;:&quot;svod_premium&quot;,&quot;svod_providers&quot;:&quot;disney&quot;,&quot;replay_providers&quot;:&quot;undefined&quot;,&quot;movie_entity&quot;:&quot;4019|piege_de_cristal&quot;,&quot;series_entity&quot;:&quot;undefined&quot;,&quot;site_route&quot;:&quot;movies_showing_top_by_user&quot;}" target="_blank" rel="&quot;noopener&quot;" aria-label="Voir maintenant sur Disney+"> <span class="txt">Voir sur Disney<span class="provider-plus">+</span></span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6NDAxOQ==" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6NDAxOQ==" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTE5NDE4NzgxJmNmaWxtPTQ1MjY0Lmh0bWw= thumbnail-container thumbnail-link" title="Bande-annonce La Cité de Dieu"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img3.acsta.net/c_310_420/img/f7/23/f7234f97c7bd49f26c466c606f697a8f.jpg" alt="Bande-annonce La Cité de Dieu" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            10
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=45264.html">La Cité de Dieu</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">12 mars 2003</span> <span class="spacer">|</span> 2h 15min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDE4Lw== dark-grey-link">Policier</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDA4Lw== dark-grey-link">Drame</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Date de reprise</span> <span class="date">11 décembre 2024</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0zMTc2Mi5odG1s dark-grey-link">Kátia Lund</span>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT02NjI1Ni5odG1s dark-grey-link">Fernando Meirelles</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=75624.html">Alexandre Rodrigues</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=75628.html">Leandro Firmino da Hora</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT03NTYzMC5odG1s dark-grey-link">Seu Jorge</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Titre original </span> <span class="dark-grey">Cidade de Deus</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTQ1MjY0L2NyaXRpcXVlcy9wcmVzc2Uv rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">3,9</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-45264/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,2</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6NDUyNjQ=" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Dans une favela de Rio de Janeiro, dans les années 60, Fusée, un gamin noir et pauvre, rêve de devenir photographe professionnel. Petit Dé, un enfant de 11 ans, emménage dans la Cité. Il souhaite pour sa part devenir le plus grand criminel de Rio...
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTQ1MjY0Lw== button button-sm button-inverse-full"> <span class="txt">Séances (34)</span> </span> <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTQ1MjY0L3N0cmVhbWluZy8= button button-sm button-default-full" data-jan="{&quot;eventAction&quot;:&quot;both&quot;,&quot;eventName&quot;:&quot;svod_generic_button&quot;,&quot;movie_entity&quot;:&quot;45264|la_cite_de_dieu&quot;,&quot;series_entity&quot;:&quot;undefined&quot;,&quot;site_route&quot;:&quot;movies_showing_top_by_user&quot;}" data-ga-trigger="clic" data-ga="{&quot;hitType&quot;:&quot;event&quot;,&quot;eventCategory&quot;:&quot;op-svod&quot;,&quot;eventLabel&quot;:&quot;streaming_button&quot;,&quot;dimension82&quot;:&quot;45264-la_cite_de_dieu&quot;,&quot;dimension10&quot;:&quot;movies_showing_top_by_user&quot;}"> <span class="txt">Streaming</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6NDUyNjQ=" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6NDUyNjQ=" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li>
+        <div id="mobile-referrer-btf"></div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjEwMDU0JmNmaWxtPTI3NDg1OC5odG1s thumbnail-container thumbnail-link" title="Bande-annonce La Plus Précieuse Des Marchandises"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img4.acsta.net/c_310_420/img/6b/bf/6bbf674e166f0f6e921298bd13280381.jpg" alt="Bande-annonce La Plus Précieuse Des Marchandises" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            11
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=274858.html">La Plus Précieuse Des Marchandises</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">20 novembre 2024</span> <span class="spacer">|</span> 1h 21min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDI2Lw== dark-grey-link">Animation</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDA4Lw== dark-grey-link">Drame</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDE1Lw== dark-grey-link">Historique</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT01MDc5Lmh0bWw= dark-grey-link">Michel Hazanavicius</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=682.html">Jean-Louis Trintignant</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=2496.html">Dominique Blanc</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0yMDc4Lmh0bWw= dark-grey-link">Denis Podalydès</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTI3NDg1OC9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,0</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-274858/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,2</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6Mjc0ODU4" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Il était une fois, dans un grand bois, un pauvre bûcheron et une pauvre bûcheronne. Le froid, la faim, la misère, et partout autour d´eux la guerre, leur rendaient la vie bien difficile. Un jour, pauvre bûcheronne recueille un bébé. Un bébé jeté d’un des nombreux trains qui traversent sans cesse leur bois. Protégée quoi qu’il en coûte, ce bébé, cette petite marchandise va bouleverser la vie de cette femme, de son mari , et de tous ceux qui vont croiser son destin, jusqu’à l’homme qui l’a jeté du train. Leur histoire va révéler le pire comme le meilleur du cœur des hommes.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTI3NDg1OC8= button button-sm button-inverse-full"> <span class="txt">Séances (595)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6Mjc0ODU4" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6Mjc0ODU4" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTE5NjA1NDcyJmNmaWxtPTMxODAzMS5odG1s thumbnail-container thumbnail-link" title="Bande-annonce Un p’tit truc en plus"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img5.acsta.net/c_310_420/pictures/24/03/01/11/14/2965930.jpg" alt="Bande-annonce Un p’tit truc en plus" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            12
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=318031.html">Un p’tit truc en plus</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">1 mai 2024</span> <span class="spacer">|</span> 1h 39min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDA1Lw== dark-grey-link">Comédie</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT04MDE5MTAuaHRtbA== dark-grey-link"> Artus</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=801910.html"> Artus</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=7754.html">Clovis Cornillac</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT00ODY4NDQuaHRtbA== dark-grey-link">Alice Belaïdi</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTMxODAzMS9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n30 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">3,1</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-318031/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,2</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MzE4MDMx" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Pour échapper à la police, un fils et son père en cavale sont contraints de trouver refuge dans une colonie de vacances pour jeunes adultes en situation de handicap, se faisant passer pour un pensionnaire et son éducateur spécialisé. Le début des emmerdes et d’une formidable expérience humaine qui va les changer à jamais.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTMxODAzMS8= button button-sm button-inverse-full"> <span class="txt">Séances (26)</span> </span> <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTMxODAzMS9zdHJlYW1pbmcv button button-sm button-default-full" data-jan="{&quot;eventAction&quot;:&quot;both&quot;,&quot;eventName&quot;:&quot;svod_generic_button&quot;,&quot;movie_entity&quot;:&quot;318031|un_p_tit_truc_en_plus&quot;,&quot;series_entity&quot;:&quot;undefined&quot;,&quot;site_route&quot;:&quot;movies_showing_top_by_user&quot;}" data-ga-trigger="clic" data-ga="{&quot;hitType&quot;:&quot;event&quot;,&quot;eventCategory&quot;:&quot;op-svod&quot;,&quot;eventLabel&quot;:&quot;streaming_button&quot;,&quot;dimension82&quot;:&quot;318031-un_p_tit_truc_en_plus&quot;,&quot;dimension10&quot;:&quot;movies_showing_top_by_user&quot;}"> <span class="txt">Streaming</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MzE4MDMx" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MzE4MDMx" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA3OTA2JmNmaWxtPTMxMTQ0NC5odG1s thumbnail-container thumbnail-link" title="Bande-annonce L’Histoire de Souleymane"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img4.acsta.net/c_310_420/img/31/e8/31e8fa05a5d035cbc0d2dd3f88d78c6b.jpg" alt="Bande-annonce L’Histoire de Souleymane" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            13
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=311444.html">L’Histoire de Souleymane</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">9 octobre 2024</span> <span class="spacer">|</span> 1h 33min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDA4Lw== dark-grey-link">Drame</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xNzEyMDUuaHRtbA== dark-grey-link">Boris Lojkine</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=1011028.html">Abou Sangare</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=1027372.html">Alpha Oumar Sow</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0zMjgwNy5odG1s dark-grey-link">Nina Meurisse</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTMxMTQ0NC9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,1</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-311444/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,2</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MzExNDQ0" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Tandis qu’il pédale dans les rues de Paris pour livrer des repas, Souleymane répète son histoire. Dans deux jours, il doit passer son entretien de demande d’asile, le sésame pour obtenir des papiers. Mais Souleymane n’est pas prêt.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTMxMTQ0NC8= button button-sm button-inverse-full"> <span class="txt">Séances (172)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MzExNDQ0" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MzExNDQ0" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA4NjQzJmNmaWxtPTIyMTYxNy5odG1s thumbnail-container thumbnail-link" title="Bande-annonce L'Amour ouf"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img6.acsta.net/c_310_420/o_club-allocine-2024-310x420.png_0_se/img/a8/3e/a83e4496e4b525082f93cc758a6d4a64.jpg" alt="Bande-annonce L'Amour ouf" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            14
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=221617.html">L'Amour ouf</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">16 octobre 2024</span> <span class="spacer">|</span> 2h 40min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDA1Lw== dark-grey-link">Comédie</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDI0Lw== dark-grey-link">Romance</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDIzLw== dark-grey-link">Thriller</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT05MTUwMy5odG1s dark-grey-link">Gilles Lellouche</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=160886.html">Adèle Exarchopoulos</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=198048.html">François Civil</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT05NjI0NDguaHRtbA== dark-grey-link">Mallory Wanecque</span>
+           </div>
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTIyMTYxNy9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n30 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">3,2</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-221617/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,2</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MjIxNjE3" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           Les années 80, dans le nord de la France.Jackie et Clotaire grandissent entre les bancs du lycée et les docks du port. Elle étudie, il traine. Et puis leurs destins se croisent et c'est l'amour fou. La vie s'efforcera de les séparer mais rien n'y fait, ces deux-là sont comme les deux ventricules du même cœur...
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTIyMTYxNy8= button button-sm button-inverse-full"> <span class="txt">Séances (833)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MjIxNjE3" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MjIxNjE3" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+       <li class="mdl">
+        <div class="card entity-card entity-card-list cf">
+         <figure class="thumbnail ">
+          <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTE5MzcxNjkwJmNmaWxtPTE4OTkwOS5odG1s thumbnail-container thumbnail-link" title="Bande-annonce Les Cinq légendes"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/89/92/04/20272137.jpg" alt="Bande-annonce Les Cinq légendes" width="310" height="420"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span>
+           <div class="label label-text label-sm label-primary-full label-ranking">
+            15
+           </div></span>
+         </figure>
+         <div class="meta  ">
+          <h2 class="meta-title"><a class="meta-title-link" href="/film/fichefilm_gen_cfilm=189909.html">Les Cinq légendes</a></h2>
+          <div class="meta-body">
+           <div class="meta-body-item meta-body-info">
+            <span class="date">28 novembre 2012</span> <span class="spacer">|</span> 1h 37min <span class="spacer">|</span> <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDAxLw== dark-grey-link">Aventure</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDI2Lw== dark-grey-link">Animation</span>, <span class="ACrL2ZACrpbG1zL2dlbnJlLTEzMDM2Lw== dark-grey-link">Famille</span>
+           </div>
+           <div class="meta-body-item meta-body-direction ">
+            <span class="light">De</span> <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT0xOTMwODMuaHRtbA== dark-grey-link">Peter Ramsey</span>
+           </div>
+           <div class="meta-body-item meta-body-actor">
+            <span class="light">Avec</span> <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=82057.html">Gaspard Ulliel</a>, <a class="dark-grey-link" href="/personne/fichepersonne_gen_cpersonne=117459.html">Chris Pine</a>, <span class="ACrL3BACrlcnNvbm5lL2ZpY2hlcGVyc29ubmVfZ2VuX2NwZXJzb25uZT02MDU4MDQuaHRtbA== dark-grey-link">Nolwenn Leroy</span>
+           </div>
+           <div class="meta-body-item">
+            <span class="light">Titre original </span> <span class="dark-grey">Rise of the Guardians</span>
+           </div>
+          </div>
+         </div>
+         <div class="label-holder">
+          <div class="label kids-label aged-default">
+           à partir de 6 ans
+          </div>
+         </div>
+         <div class="rating-holder rating-holder-3">
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <span class="ACrL2ZACrpbG0vZmljaGVmaWxtLTE4OTkwOS9jcml0aXF1ZXMvcHJlc3NlLw== rating-title"> Presse </span>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n35 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">3,4</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content">
+            <a class="rating-title" href="/film/fichefilm-189909/critiques/spectateurs/"> Spectateurs </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n40 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note">4,1</span>
+            </div>
+           </div>
+          </div>
+          <div class="rating-item">
+           <div class="rating-item-content js-user-friends-rating" data-entity-id="TW92aWU6MTg5OTA5" data-size="small" data-title="Mes amis ">
+            <a class="rating-title" href="#">Mes amis </a>
+            <div class="stareval stareval-small stareval-theme-default">
+             <div class="rating-mdl n00 stareval-stars">
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+              <div class="star icon"></div>
+             </div><span class="stareval-note no-rating">--</span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="synopsis">
+          <div class="content-txt ">
+           L’aventure d’un groupe de héros, tous doués de pouvoirs extraordinaires. Emmenées par Jack Frost, un adolescent rebelle et ingénieux, ces cinq légendes vont devoir, pour la première fois, unir leurs forces pour protéger les espoirs, les rêves et l’imaginaire de tous les enfants.
+          </div>
+         </div>
+         <div class="buttons-holder">
+          <span class="ACrL3NACrlYW5jZS9maWxtLTE4OTkwOS8= button button-sm button-inverse-full"> <span class="txt">Séances (26)</span> </span>
+         </div>
+         <div class="bam-container card-bam">
+          <div class="bam-cell bam-rating-user">
+           <span class="user-rating-title">noter :</span>
+           <div class="js-user-rating " data-entity-id="TW92aWU6MTg5OTA5" data-size="large" data-title="" data-social-action-placement="actions_section" data-show-suggestion="true">
+            <span class="user-rating stareval user-rating-large">
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">0.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">1.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">2.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">3.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">4.5</span>
+             </div>
+             <div class="rating-star tooltip-parent">
+              <span class="tooltip tooltip-dark tooltip-child">5</span>
+             </div></span>
+           </div>
+          </div>
+          <div class="bam-cell bam-want-to-see js-user-want-to-see " data-content="Envie de voir" data-classes="button icon icon-wish-full" data-entity-id="TW92aWU6MTg5OTA5" data-social-action-placement="actions_section">
+           <span class="button icon icon-wish-full">Envie de voir</span>
+          </div>
+         </div>
+        </div></li>
+      </ol>
+      <nav class="pagination cf">
+       <span class="button button-md button-primary-full button-left button-disabled"><i class="icon icon-left icon-arrow-left"></i><span class="txt">Précédente</span></span><span class="ACrL2ZACrpbG0vYXVjaW5lbWEvdG9wLz9wYWdlPTI= button button-md button-primary-full button-right"><span class="txt">Suivante</span><i class="icon icon-right icon-arrow-right-a"></i></span>
+       <div class="pagination-item-holder">
+        <span class="button button-md item current-item"> 1 </span><a class="button button-md item" href="/film/aucinema/top/?page=2">2</a><a class="button button-md item" href="/film/aucinema/top/?page=3">3</a><a class="button button-md item" href="/film/aucinema/top/?page=4">4</a>
+       </div>
+      </nav>
+     </div>
+     <aside id="gd-col-right" class="gd-col-right flex-col">
+      <div class="sticky-ad-holder sticky-atf js-sticky-atf">
+       <div class="sticky-pos">
+        <div id="dfp-atf" class="js-atf ad-atf ad-item"></div>
+       </div>
+      </div>
+      <div class="rc-content">
+       <div class="mdl-rc">
+        <div class="rc-whatsapp-widget" data-ga-trigger="impression" data-ga="{&quot;eventCategory&quot;:&quot;right_column&quot;,&quot;eventAction&quot;:&quot;impression&quot;,&quot;eventLabel&quot;:&quot;follow_on_whatsapp&quot;,&quot;dimension10&quot;:&quot;movies_showing_top_by_user&quot;,&quot;dimension83&quot;:null}">
+         <span class="ACraHRACr0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9hbGxvY2luZWxlc2luZGVzLw==" target="_blank"> <img class="rc-visuel-whatsapp" src="data:image/gif;base64,R0lGODlhAgABAPAAAAAAAAAAACH5BAEAAAAAIf8LSW1hZ2VNYWdpY2sNZ2FtbWE9MC40NTQ1NQAsAAAAAAIAAQAAAgIECgA7" data-src="https://fr.web.img2.acsta.net/commons/v9/allocine/visuel-rc/visuel-indes-rc.jpg" width="300" alt="Suivez nous sur Whatsapp"> </span>
+        </div>
+       </div>
+       <div class="mdl-rc">
+        <div class="titlebar section-title">
+         <span class="titlebar-title titlebar-title-md">Top Bandes-annonces</span>
+        </div>
+        <div class="gd gd-gap-10 gd-xs-3 gd-m-6 gd-l-3">
+         <div class="card video-card-trailer ">
+          <figure class="thumbnail ">
+           <div class="thumbnail-layer">
+            <div class="layer-link-holder">
+             <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjEwMDU0JmNmaWxtPTI3NDg1OC5odG1s layer-link">La Plus Précieuse Des Marchandises Bande-annonce VF</span>
+            </div>
+           </div><span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjEwMDU0JmNmaWxtPTI3NDg1OC5odG1s thumbnail-container thumbnail-link" title="La Plus Précieuse Des Marchandises Bande-annonce VF"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img6.acsta.net/c_215_286/img/6b/bf/6bbf674e166f0f6e921298bd13280381.jpg" alt="La Plus Précieuse Des Marchandises Bande-annonce VF" width="215" height="286"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span> <span class="thumbnail-count"></span> </span>
+          </figure>
+         </div>
+         <div class="card video-card-trailer ">
+          <figure class="thumbnail ">
+           <div class="thumbnail-layer">
+            <div class="layer-link-holder">
+             <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA1NTg4JmNmaWxtPTI2OTIyMy5odG1s layer-link">Gladiator II Bande-annonce VO STFR</span>
+            </div>
+           </div><span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA1NTg4JmNmaWxtPTI2OTIyMy5odG1s thumbnail-container thumbnail-link" title="Gladiator II Bande-annonce VO STFR"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img5.acsta.net/c_215_286/img/d6/5b/d65be9c3a6f9dc13a987f71c59351855.jpg" alt="Gladiator II Bande-annonce VO STFR" width="215" height="286"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span> <span class="thumbnail-count"></span> </span>
+          </figure>
+         </div>
+         <div class="card video-card-trailer ">
+          <figure class="thumbnail ">
+           <div class="thumbnail-layer">
+            <div class="layer-link-holder">
+             <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjEwNzA1JmNmaWxtPTMyNjczNC5odG1s layer-link">Mémoires d’un corps brûlant Bande-annonce VO STFR</span>
+            </div>
+           </div><span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjEwNzA1JmNmaWxtPTMyNjczNC5odG1s thumbnail-container thumbnail-link" title="Mémoires d’un corps brûlant Bande-annonce VO STFR"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img6.acsta.net/c_215_286/img/19/9f/199f742b65b68a622cc3001ccdedde2d.jpg" alt="Mémoires d’un corps brûlant Bande-annonce VO STFR" width="215" height="286"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span> <span class="thumbnail-count"></span> </span>
+          </figure>
+         </div>
+         <div class="card video-card-trailer ">
+          <figure class="thumbnail ">
+           <div class="thumbnail-layer">
+            <div class="layer-link-holder">
+             <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjEwNzczJmNmaWxtPTMxNDkwOC5odG1s layer-link">Diamant brut Bande-annonce VF STFR</span>
+            </div>
+           </div><span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjEwNzczJmNmaWxtPTMxNDkwOC5odG1s thumbnail-container thumbnail-link" title="Diamant brut Bande-annonce VF STFR"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img6.acsta.net/c_215_286/img/13/6a/136a83527c596c81fdb74c8b81ec057a.jpg" alt="Diamant brut Bande-annonce VF STFR" width="215" height="286"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span> <span class="thumbnail-count"></span> </span>
+          </figure>
+         </div>
+         <div class="card video-card-trailer ">
+          <figure class="thumbnail ">
+           <div class="thumbnail-layer">
+            <div class="layer-link-holder">
+             <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA5OTMwJmNmaWxtPTMxNDg2OC5odG1s layer-link">Juré n°2 Bande-annonce VO STFR</span>
+            </div>
+           </div><span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA5OTMwJmNmaWxtPTMxNDg2OC5odG1s thumbnail-container thumbnail-link" title="Juré n°2 Bande-annonce VO STFR"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img3.acsta.net/c_215_286/img/42/60/426008e64b37631e896522f364685b97.jpg" alt="Juré n°2 Bande-annonce VO STFR" width="215" height="286"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span> <span class="thumbnail-count"></span> </span>
+          </figure>
+         </div>
+         <div class="card video-card-trailer ">
+          <figure class="thumbnail ">
+           <div class="thumbnail-layer">
+            <div class="layer-link-holder">
+             <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA4ODAxJmNmaWxtPTMxNjUwOC5odG1s layer-link">Le Panache Bande-annonce VF</span>
+            </div>
+           </div><span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjA4ODAxJmNmaWxtPTMxNjUwOC5odG1s thumbnail-container thumbnail-link" title="Le Panache Bande-annonce VF"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img6.acsta.net/c_215_286/img/d8/f9/d8f9832c22dfd2d6429722e5bc3d318f.jpg" alt="Le Panache Bande-annonce VF" width="215" height="286"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span> <span class="thumbnail-count"></span> </span>
+          </figure>
+         </div>
+        </div>
+        <div class="end-section-link-container">
+         <span class="ACrL3ZACrpZGVvL2JhbmRlcy1hbm5vbmNlcy8= end-section-link " title="Bandes-annonces à ne pas manquer">Bandes-annonces à ne pas manquer</span>
+        </div>
+       </div>
+       <div class="sticky-ad-holder sticky-mtf js-sticky-mtf">
+        <div class="sticky-pos">
+         <div id="dfp-mtf" class="js-mtf ad-mtf ad-item"></div>
+        </div>
+       </div>
+       <div class="mdl-rc">
+        <div class="titlebar section-title">
+         <span class="titlebar-title titlebar-title-md">Dernières actus Ciné</span>
+        </div>
+        <div class="gd gd-gap-10 gd-xs-1 gd-m-2 gd-l-1">
+         <div class="card news-card news-card-col cf">
+          <figure class="thumbnail ">
+           <div class="thumbnail-container">
+            <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhEAAJAIAAAAAAAAAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://fr.web.img6.acsta.net/c_400_225/img/da/59/da59de3bd9ef32c79a26533e3dd9b7b9.jpg" alt="&quot;Une insulte aux téléfilms de Noël&quot;, &quot;rien ne va&quot; : le film The Merry Gentlemen sur Netflix cartonne mais divise les abonnés" width="400" height="225">
+           </div>
+          </figure>
+          <div class="meta ">
+           <div class="meta-category">
+            News - Streaming
+           </div>
+           <div class="meta-title">
+            <span class="ACrL2FACrydGljbGUvZmljaGVhcnRpY2xlX2dlbl9jYXJ0aWNsZT0xMDAwMTE1ODYyLmh0bWw= meta-title-link">"Une insulte aux téléfilms de Noël", "rien ne va" : le film The Merry Gentlemen sur Netflix cartonne mais divise les abonnés</span>
+           </div>
+           <div class="meta-date">
+            mardi 26 novembre 2024
+           </div>
+          </div>
+         </div>
+         <div class="card news-card news-card-col cf">
+          <figure class="thumbnail ">
+           <div class="thumbnail-container">
+            <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhEAAJAIAAAAAAAAAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://fr.web.img6.acsta.net/c_400_225/img/83/7e/837e7e3339f4f43b3dfa441f1648468d.jpg" alt="Sylvester Stallone dans un film de superhéros, ça existe !" width="400" height="225">
+           </div>
+          </figure>
+          <div class="meta ">
+           <div class="meta-category">
+            News - Films à la TV
+           </div>
+           <div class="meta-title">
+            <span class="ACrL2FACrydGljbGUvZmljaGVhcnRpY2xlX2dlbl9jYXJ0aWNsZT0xMDAwMTE1NjQ0Lmh0bWw= meta-title-link">Sylvester Stallone dans un film de superhéros, ça existe !</span>
+           </div>
+           <div class="meta-date">
+            mardi 26 novembre 2024
+           </div>
+          </div>
+         </div>
+         <div class="card news-card news-card-col cf">
+          <figure class="thumbnail ">
+           <div class="thumbnail-container">
+            <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhEAAJAIAAAAAAAAAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://fr.web.img2.acsta.net/c_400_225/img/8c/20/8c20535f02f0f744933194e1c52b8562.jpg" alt="Culte depuis 22 ans, la nouvelle version de ce film drôle et touchant se dévoile dans une première bande-annonce !" width="400" height="225">
+           </div>
+          </figure>
+          <div class="meta ">
+           <div class="meta-category">
+            News - Vu sur le web
+           </div>
+           <div class="meta-title">
+            <span class="ACrL2FACrydGljbGUvZmljaGVhcnRpY2xlX2dlbl9jYXJ0aWNsZT0xMDAwMTE1ODc4Lmh0bWw= meta-title-link">Culte depuis 22 ans, la nouvelle version de ce film drôle et touchant se dévoile dans une première bande-annonce !</span>
+           </div>
+           <div class="meta-date">
+            mardi 26 novembre 2024
+           </div>
+          </div>
+         </div>
+         <div class="card news-card news-card-col cf">
+          <figure class="thumbnail ">
+           <div class="thumbnail-container">
+            <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhEAAJAIAAAAAAAAAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://fr.web.img6.acsta.net/c_400_225/img/23/f1/23f121c02b90cc860d95b6f037dd96bd.jpg" alt="Après l'immense succès du Comte de Monte-Cristo, voici une nouvelle adaptation de Dumas qui va vous surprendre" width="400" height="225">
+           </div>
+          </figure>
+          <div class="meta ">
+           <div class="meta-category">
+            News - Vu sur le web
+           </div>
+           <div class="meta-title">
+            <span class="ACrL2FACrydGljbGUvZmljaGVhcnRpY2xlX2dlbl9jYXJ0aWNsZT0xMDAwMTE1ODU3Lmh0bWw= meta-title-link">Après l'immense succès du Comte de Monte-Cristo, voici une nouvelle adaptation de Dumas qui va vous surprendre</span>
+           </div>
+           <div class="meta-date">
+            mardi 26 novembre 2024
+           </div>
+          </div>
+         </div>
+         <div class="card news-card news-card-col cf">
+          <figure class="thumbnail ">
+           <div class="thumbnail-container">
+            <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhEAAJAIAAAAAAAAAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://fr.web.img3.acsta.net/c_400_225/img/5c/be/5cbed0ca9e661634b7ee3f22d26a35e1.jpg" alt="&quot;J'arrêterai le métier d'acteur, si...&quot; : l'étonnante confession de Josh Brolin !" width="400" height="225">
+           </div>
+          </figure>
+          <div class="meta ">
+           <div class="meta-category">
+            News - Stars
+           </div>
+           <div class="meta-title">
+            <span class="ACrL2FACrydGljbGUvZmljaGVhcnRpY2xlX2dlbl9jYXJ0aWNsZT0xMDAwMTE1NjI2Lmh0bWw= meta-title-link">"J'arrêterai le métier d'acteur, si..." : l'étonnante confession de Josh Brolin !</span>
+           </div>
+           <div class="meta-date">
+            mardi 26 novembre 2024
+           </div>
+          </div>
+         </div>
+         <div class="card news-card news-card-col cf">
+          <figure class="thumbnail ">
+           <div class="thumbnail-container">
+            <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhEAAJAIAAAAAAAAAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://fr.web.img5.acsta.net/c_400_225/img/93/04/9304fafc16074038d1aa8ccbddafefe8.jpg" alt="Ce soir sur Canal+ : François Civil dans l'un de ses rôles les plus intenses" width="400" height="225">
+           </div>
+          </figure>
+          <div class="meta ">
+           <div class="meta-category">
+            News - Streaming
+           </div>
+           <div class="meta-title">
+            <span class="ACrL2FACrydGljbGUvZmljaGVhcnRpY2xlX2dlbl9jYXJ0aWNsZT0xMDAwMTE1MTQ1Lmh0bWw= meta-title-link">Ce soir sur Canal+ : François Civil dans l'un de ses rôles les plus intenses</span>
+           </div>
+           <div class="meta-date">
+            mardi 26 novembre 2024
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="end-section-link-container">
+         <span class="ACrL25ACrld3MvY2luZW1hLw== end-section-link " title="Dernières actus Cinéma">Dernières actus Cinéma</span>
+        </div>
+       </div>
+       <div class="mdl-rc">
+        <div class="titlebar section-title">
+         <span class="titlebar-title titlebar-title-md">Films Prochainement au Cinéma</span>
+        </div>
+        <ul class="list-entity ">
+         <li class="list-entity-item list-entity-item-first cf">
+          <figure class="thumbnail ">
+           <span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjEwMzgwJmNmaWxtPTMxMjUxMS5odG1s thumbnail-container thumbnail-link" title="Vaiana 2"> <img class="thumbnail-img" src="data:image/gif;base64,R0lGODlhAwAEAIAAAAAAAAAAACH5BAEAAAAALAAAAAADAAQAAAIDhI9WADs=" data-src="https://fr.web.img4.acsta.net/c_120_160/img/9e/c9/9ec9a076d8516b78e1923dd76806f13e.jpg" alt="Vaiana 2" width="120" height="160"> <span class="ico-play-wrapper"> <span class="icon icon-play-arrow"></span> </span> </span>
+          </figure>
+          <div class="meta">
+           <div class="meta-title">
+            <a class="list-entity-title-link" href="/film/fichefilm_gen_cfilm=312511.html"> Vaiana 2 </a>
+           </div>
+           <div class="meta-body">
+            <p class="from">de David G. Derrick Jr., Jason Hand</p>
+            <p class="genre">Film - Aventure</p>
+           </div><span class="ACrL3ZACrpZGVvL3BsYXllcl9nZW5fY21lZGlhPTIwNjEwMzgwJmNmaWxtPTMxMjUxMS5odG1s"> Bande-annonce </span>
+          </div></li>
+         <li class="list-entity-item"><a href="/film/fichefilm_gen_cfilm=304895.html" class="top-item-link"> Conclave </a></li>
+         <li class="list-entity-item"><a href="/film/fichefilm_gen_cfilm=248289.html" class="top-item-link"> Wicked </a></li>
+         <li class="list-entity-item"><a href="/film/fichefilm_gen_cfilm=314009.html" class="top-item-link"> En fanfare </a></li>
+         <li class="list-entity-item"><a href="/film/fichefilm_gen_cfilm=314779.html" class="top-item-link"> Leurs Enfants après eux </a></li>
+         <li class="list-entity-item"><span class="ACrL2ZACrpbG0vZmljaGVmaWxtX2dlbl9jZmlsbT0zMTM0ODEuaHRtbA== top-item-link"> Dragons </span></li>
+         <li class="list-entity-item"><span class="ACrL2ZACrpbG0vZmljaGVmaWxtX2dlbl9jZmlsbT0zMTcwNjEuaHRtbA== top-item-link"> Heretic </span></li>
+         <li class="list-entity-item"><span class="ACrL2ZACrpbG0vZmljaGVmaWxtX2dlbl9jZmlsbT0xMDAwMDA0MjQzLmh0bWw= top-item-link"> Les Boules de Noël </span></li>
+         <li class="list-entity-item"><span class="ACrL2ZACrpbG0vZmljaGVmaWxtX2dlbl9jZmlsbT0yODY3NzcuaHRtbA== top-item-link"> Mufasa : Le Roi Lion </span></li>
+         <li class="list-entity-item"><span class="ACrL2ZACrpbG0vZmljaGVmaWxtX2dlbl9jZmlsbT0yOTYwNDIuaHRtbA== top-item-link"> Niko le petit renne, mission Père Noël </span></li>
+        </ul>
+        <div class="end-section-link-container">
+         <span class="ACrL2ZACrpbG0vYXR0ZW5kdXMv end-section-link " title="Les films à venir les plus consultés">Les films à venir les plus consultés</span>
+        </div>
+       </div>
+       <div class="sticky-ad-holder sticky-autopromo js-sticky-autopromo">
+        <div class="sticky-pos">
+         <div id="dfp-autopromo" class="js-autopromo ad-autopromo ad-item"></div>
+        </div>
+       </div>
+       <div class="sticky-ad-holder sticky-btf js-sticky-btf">
+        <div class="sticky-pos">
+         <div id="dfp-btf" class="js-btf ad-btf ad-item"></div>
+        </div>
+       </div>
+      </div>
+     </aside>
+    </section>
+   </main>
+   <div id="player-emergence" class="player-emergence" data-player="{&quot;namePartner&quot;:&quot;ac_footer&quot;,&quot;booster&quot;:&quot;playerFooter&quot;,&quot;displayContext&quot;:&quot;list_page&quot;,&quot;idMedia&quot;:19552644,&quot;idMovie&quot;:130440,&quot;player_position&quot;:&quot;playerfooter&quot;,&quot;title&quot;:&quot;Tony Stark r\u00e9sistera t-il au tandem Michel &amp;amp; Michel ? La r\u00e9ponse en images !&quot;,&quot;subtitle&quot;:&quot;AlloCin\u00e9 vous pr\u00e9sente&quot;,&quot;entityType&quot;:&quot;movie&quot;,&quot;entityId&quot;:130440,&quot;player_dm_id&quot;:&quot;xa15i&quot;,&quot;tracking&quot;:{&quot;ga&quot;:{&quot;hitType&quot;:&quot;event&quot;,&quot;eventCategory&quot;:&quot;emergence&quot;,&quot;eventLabel&quot;:&quot;player_footer&quot;,&quot;dimension82&quot;:&quot;130440-tony_stark_resistera_t_il_au_tandem_michel_amp_michel_la_reponse_en_images&quot;,&quot;dimension84&quot;:&quot;movie&quot;},&quot;jan&quot;:null}}">
+   </div>
+   <div id="dfp-footer" class="js-footer ad-footer ad-item"></div>
+   <div id="dfp-pulse" class="js-pulse ad-pulse ad-item"></div>
+   <footer id="main-footer" class="main-footer">
+    <div class="main-footer-top footer-full">
+     <div class="footer-cell">
+      <div class="titlebar ">
+       <div class="title title-tny">
+        <span>Suivez-nous</span>
+       </div>
+      </div>
+      <div class="content icon-holder-social">
+       <span class="ACraHRACr0cHM6Ly93d3cuZmFjZWJvb2suY29tL2FsbG9jaW5l item" target="_blank" rel="noopener" aria-label="Suivez nous sur Facebook"><i class="icon icon-social-facebook-circle"></i></span> <span class="ACraHRACr0cHM6Ly90d2l0dGVyLmNvbS9hbGxvY2luZQ== item" target="_blank" rel="noopener" aria-label="Suivez nous sur Twitter"><i class="icon icon-social-twitter-circle"></i></span> <span class="ACraHRACr0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9hbGxvY2luZQ== item" target="_blank" rel="noopener" aria-label="Suivez nous sur Instagram"><i class="icon icon-social-instagram-circle"></i></span> <span class="ACraHRACr0cHM6Ly93d3cudGlrdG9rLmNvbS9AYWxsb2NpbmU= item" target="_blank" rel="noopener" aria-label="Suivez nous sur TikTok"><i class="icon icon-social-tiktok-circle"></i></span> <span class="ACrL3NACrlcnZpY2UvY29udGFjdC8= item" aria-label="Contactez nous"><i class="icon icon-social-mail-circle"></i></span>
+      </div>
+     </div>
+     <div class="footer-cell">
+      <div class="titlebar ">
+       <div class="title title-tny">
+        <span>AlloCiné sur mobile</span>
+       </div>
+      </div>
+      <div class="content icon-holder-device">
+       <span class="ACraHRACr0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL2ZyL2FwcC9hbGxvY2luZS9pZDM1MTE4NDg2Mw== item" target="_blank" rel="noopener" aria-label="Téléchargez l'application allocine pour IOS"><i class="icon icon-apple"></i></span> <span class="ACraHRACr0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5hbGxvY2luZS5hbmRyb2lkYXBw item" target="_blank" rel="noopener" aria-label="Téléchargez l'application allocine pour Android"><i class="icon icon-android"></i></span>
+      </div>
+     </div>
+     <div class="footer-cell footer-link-brand-holder">
+      <div class="titlebar ">
+       <div class="title title-tny text-center">
+        <span>AlloCiné à l'étranger</span>
+       </div>
+      </div>
+      <div class="content cf">
+       <div class="brand-link">
+        <span class="ACraHRACr0cHM6Ly93d3cuZmlsbXN0YXJ0cy5kZS8=">Filmstarts</span> <span class="light">Allemagne</span>
+       </div>
+       <div class="brand-link">
+        <span class="ACraHRACr0cHM6Ly93d3cuc2Vuc2FjaW5lLmNvbS8=">SensaCine</span> <span class="light">Espagne</span>
+       </div>
+       <div class="brand-link">
+        <span class="ACraHRACr0cHM6Ly93d3cuYmV5YXpwZXJkZS5jb20v">Beyazperde</span> <span class="light">Turquie</span>
+       </div>
+       <div class="brand-link">
+        <span class="ACraHRACr0cHM6Ly93d3cuYWRvcm9jaW5lbWEuY29tLw==">AdoroCinema</span> <span class="light">Brésil</span>
+       </div>
+       <div class="brand-link">
+        <span class="ACraHRACr0cHM6Ly93d3cuc2Vuc2FjaW5lLmNvbS5teC8=">Sensacine México</span> <span class="light">Mexique</span>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="main-footer-bottom ">
+     <p class="info"><span class="ACrL3NACrlcnZpY2UvY29udGFjdC8=">Contact</span> <span class="pipe">|</span> <span class="ACrL3NACrlcnZpY2UvYXByb3Bvcy8=">Qui sommes-nous</span> <span class="pipe">|</span> <span class="ACraHRACr0cHM6Ly93ZWJlZGlhLWdyb3VwLmNvbS8=" target="_blank" rel="noopener"> Recrutement</span> <span class="pipe">|</span> <span class="ACraHRACr0cDovL3NwZWNzLndlYmVkaWEuZnI=" target="_blank" rel="noopener">Publicité</span> <span class="pipe">|</span> <span class="ACrL3NACrlcnZpY2UvY29uZGl0aW9ucy5odG1s">CGU</span> <span class="pipe">|</span> <span class="ACrL3NACrlcnZpY2UvY29va2llcy5odG1s">Politique de cookies</span> <span class="pipe">|</span> <a href="#" class="cookie-notice">Préférences cookies</a> <span class="pipe">|</span> <span class="ACrL3NACrlcnZpY2UvY2hhcnRlLmh0bWw=">Données Personnelles</span> <span class="pipe">|</span> <span class="ACrL3NACrlcnZpY2Uvbm90ZS1wcmVzc2UuaHRtbA==">Revue de presse</span> <span class="pipe">|</span> <span class="ACrL3NACrlcnZpY2Uv">Les services AlloCiné</span> <span class="pipe">|</span> <span class="ACrL3NACrlcnZpY2UvZ2VyZXItdXRpcS5odG1s">Gérer Utiq</span> <span class="pipe">|</span> ©AlloCiné</p>
+     <p class="info">Retrouvez tous les horaires et infos de votre cinéma sur le numéro AlloCiné : <span class="phone">0 892 892 892</span> (0,90€/minute)</p>
+     <p class="info-logo"><i class="sp footer-logo"></i> <i class="sp footer-logo-boxoffice"></i></p>
+    </div>
+   </footer>
+   <div id="mq-state" class="mq-state"></div>
+   <div class="message-board">
+    <div class="js-message-board"></div>
+   </div><a href="#allocine__movies_showing_top_by_user" id="back-top" class="back-top icon icon-arrow-top" aria-label="Retour en haut de la page"> <span class="no-icon">Back to Top</span> </a>
+   <div class="easyAdsBox">
+    &nbsp;
+   </div>
+   <div id="modal-anchors-container">
+   </div><!-- DIDOMI GLOBALS --> <!-- DIDOMI CMP SCRIPT WITH PAYWAL --> <!-- DIDOMI CMP SCRIPT ENDS -->
+   <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PL6PBF" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+   </noscript>
+  </div><!-- cTime 13:22:43 -->
+ </body>
+</html>
